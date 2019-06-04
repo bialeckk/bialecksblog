@@ -1,0 +1,2 @@
+środowisko wirtualne - source myvenv/bin/activate
+adres - python manage.py runserver
